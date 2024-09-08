@@ -37,7 +37,7 @@ function bukuPayment() {
       hargaPertama +
       "<br>" +
       "Harga Kedua : " +
-      hargaKedua +
+      hargaKedua 
       "<br>";
     console.log(totalHarga);
   } else if (totalEks > 200) {
